@@ -24,4 +24,4 @@ Neste repositório você encontrará trabalhos feitos pelos estudantes da UNIRIO
 LICENÇA
 =======
 
-Esse repositório é distribuido sob a licença MIT, veja o arquivo LICNSE para mais detalhes.
+Esse repositório é distribuido sob a licença MIT, veja o arquivo LICENSE para mais detalhes.
